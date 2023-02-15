@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shrikant Paringe</h1>
 <h3 align="center">A Web developing enthusiast from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:4800/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" >
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:4800/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" > -->
 
 <p align="left"> <a href="https://twitter.com/shrikantparinge" target="blank"><img src="https://img.shields.io/twitter/follow/shrikantparinge?logo=twitter&style=for-the-badge" alt="shrikantparinge" /></a> </p>
 
